@@ -18,5 +18,5 @@ tkeasygui
 FreeSimpleGUI
 flet
 markdown-it-py[plugins]
-jupyter-lab
+jupyterlab
 pip-review
