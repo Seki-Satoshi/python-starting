@@ -8,5 +8,5 @@ pip install -r requirements.txt
 ```
 ダウンロードは以下のコマンドでこのリポジトリ全体をダウンロードしていらないファイルを消すだけ
 ```console
-git https://github.com/Seki-Satoshi/python-starting.git
+git clone https://github.com/Seki-Satoshi/python-starting.git
 ```
